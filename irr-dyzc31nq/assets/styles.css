@@ -256,3 +256,6 @@ sup a{text-decoration:none;font-size:.75em}
 .hero-media::after{content:"";position:absolute;left:0;right:0;bottom:0;height:45%;background:linear-gradient(180deg,rgba(12,12,14,0),var(--black))}
 .hero-body{position:relative;text-align:center;margin-top:-4.5rem;padding-bottom:3.5rem;z-index:2}
 @media (min-width:960px){.hero-media img{height:min(76vh,780px)}.hero-body{margin-top:-7rem;padding-bottom:4.5rem}}
+.tagline-sub{font-size:.85rem;letter-spacing:.22em;text-transform:uppercase;font-weight:700;color:var(--cream);margin:0 0 .9rem}
+.hero2 .tagline-sub + .cta{margin:0 0 1.1rem}
+.hero-finance{margin:.35rem 0 0;font-size:.85rem;color:var(--gold);opacity:.95}
