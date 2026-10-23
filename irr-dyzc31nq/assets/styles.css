@@ -259,3 +259,6 @@ sup a{text-decoration:none;font-size:.75em}
 .tagline-sub{font-size:.85rem;letter-spacing:.22em;text-transform:uppercase;font-weight:700;color:var(--cream);margin:0 0 .9rem}
 .hero2 .tagline-sub + .cta{margin:0 0 1.1rem}
 .hero-finance{margin:.35rem 0 0;font-size:.85rem;color:var(--gold);opacity:.95}
+.hero2 .secondary + .cta{margin-top:1rem}
+.hero-call .hero-finance{display:inline;margin:0;font-weight:600;white-space:nowrap}
+.hero-call + .lead{margin-top:1rem}
